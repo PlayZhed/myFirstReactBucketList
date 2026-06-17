@@ -13,9 +13,19 @@ input {
   width: 300px;
 }
 
-button {
+.addItem-button  {
   padding: 10px 20px;
-  background-color: darkgoldenrod;
+  background-color: green;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-left: 10px;
+}
+
+.removeItem-button {
+  padding: 10px 20px;
+  background-color: darkred;
   color: white;
   border: none;
   border-radius: 5px;
