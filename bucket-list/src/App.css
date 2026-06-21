@@ -14,23 +14,27 @@ input {
 }
 
 .addItem-button  {
-  padding: 10px 20px;
+  padding: 5px 10px;
   background-color: green;
-  color: white;
   border: none;
   border-radius: 5px;
   cursor: pointer;
   margin-left: 10px;
+  font-weight: bold;
+  color: white;
+  font-size: 20px;
 }
 
 .removeItem-button {
-  padding: 10px 20px;
+  padding: 5px 10px;
   background-color: darkred;
   color: white;
   border: none;
   border-radius: 5px;
   cursor: pointer;
   margin-left: 10px;
+  font-weight: bold;
+  font-size: 15px;
 }
 
 .list {
